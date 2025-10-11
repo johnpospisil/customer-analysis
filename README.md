@@ -179,45 +179,14 @@ customer-analysis/
 
 ---
 
-## 👨‍💼 For Hiring Managers
-
-This project demonstrates:
-
-- **Business Acumen**: Translating data insights into actionable business strategies
-- **Technical Excellence**: Advanced machine learning and statistical analysis
-- **Communication Skills**: Clear visualization and reporting for stakeholders
-- **Project Management**: End-to-end data science project delivery
-
-### Quantifiable Results
-
-- **2,239 customers** analyzed across **89 features**
-- **$2.7M revenue** analyzed with **$847K optimization opportunity**
-- **94.7% model accuracy** with rigorous statistical validation
-- **6 interactive visualizations** for business stakeholder consumption
-
----
-
-## 👩‍🔬 For Data Scientists
-
-### Advanced Techniques Demonstrated
-
-- **Ensemble Clustering**: Comparison of K-Means, Hierarchical, and GMM approaches
-- **Feature Engineering**: PCA, correlation analysis, mutual information scoring
-- **Statistical Rigor**: Multiple testing correction, effect size calculations
-- **Model Validation**: Cross-validation, stability analysis, business logic testing
-
-### Code Quality
-
-- **Modular Design**: Reusable functions and configurable parameters
-- **Documentation**: Comprehensive comments and markdown explanations
-- **Version Control**: Git best practices with proper .gitignore configuration
-- **Reproducibility**: Environment specifications and random seed management
-
----
-
 ## 📞 Contact & Collaboration
 
 This project showcases practical application of data science to drive business value. The combination of rigorous statistical analysis, advanced machine learning, and clear business communication makes this an ideal portfolio piece for data science roles.
+
+📌 **For questions or collaboration, feel free to connect!**  
+📩 Email: john@johnpospisil.com  
+ 🐦 [Twitter](https://x.com/audiofreak7)  
+ 🔗 [LinkedIn Profile](https://www.linkedin.com/in/johnpospisil/)
 
 **Key Differentiators:**
 
@@ -227,5 +196,3 @@ This project showcases practical application of data science to drive business v
 - Scalable code architecture for production deployment
 
 ---
-
-_Built with ❤️ and ☕ using Python, Jupyter, and advanced data science techniques_
