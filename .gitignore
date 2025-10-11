@@ -1,0 +1,5 @@
+# Ignore all JPG files in the images folder
+images/*.jpg
+
+# Exception: Don't ignore apples.jpg
+!images/apples.jpg
