@@ -185,7 +185,7 @@ This project showcases practical application of data science to drive business v
 
 📌 **For questions or collaboration, feel free to connect!**  
 📩 Email: john@johnpospisil.com  
- 🐦 [Twitter](https://x.com/audiofreak7)  
+ 🐦 [X / Twitter](https://x.com/audiofreak7)  
  🔗 [LinkedIn Profile](https://www.linkedin.com/in/johnpospisil/)
 
 ---
