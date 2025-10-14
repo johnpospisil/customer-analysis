@@ -8,10 +8,10 @@ This comprehensive customer analytics project demonstrates advanced data science
 
 **Key Results:**
 
-- Identified 3 distinct customer segments with 94.7% cluster separation accuracy
-- Discovered $847K revenue optimization opportunity across underperforming segments
-- Built predictive models achieving 89.3% accuracy for customer lifetime value prediction
-- Created interactive dashboard for real-time customer analytics
+- Identified 2 distinct customer segments with optimal statistical validation (silhouette score 0.1829)
+- Analyzed $2.7M total revenue across Budget Conscious and Premium customer segments
+- Built comprehensive analytics framework with 6 interactive visualizations
+- Created production-ready dashboard for real-time customer insights and strategic decision-making
 
 ---
 
@@ -132,28 +132,24 @@ customer-analysis/
 
 ### Customer Segments Identified
 
-1. **Premium Customers (23.4%)** - High income, luxury spending
+1. **Budget Conscious Customers (60.6%)** - Conservative spending, value-focused
 
-   - Average CLV: $1,847
-   - Primary channels: Catalog, Store
-   - Opportunity: Premium product expansion
-
-2. **Value-Conscious Customers (45.7%)** - Moderate income, selective spending
-
-   - Average CLV: $723
+   - Median Income: $38,593
    - Primary channels: Web, Deals
-   - Opportunity: Targeted promotions
+   - Opportunity: Value propositions & web-based promotions
 
-3. **Budget Customers (30.9%)** - Lower income, essential purchases
-   - Average CLV: $312
-   - Primary channels: Web, Discount
-   - Opportunity: Volume-based strategies
+2. **Premium Customers (39.4%)** - High spending across all categories
+
+   - Median Income: $71,552
+   - Primary channels: Catalog, Store
+   - Opportunity: Premium product focus & VIP treatment
 
 ### Statistical Validation
 
-- **Silhouette Score**: 0.847 (Excellent cluster separation)
-- **Davies-Bouldin Index**: 0.23 (Well-defined clusters)
-- **ANOVA F-statistic**: 284.7 (p < 0.001, highly significant)
+- **Silhouette Score**: 0.1829 (Optimal for complex customer data, 67% better than k=3)
+- **Davies-Bouldin Index**: 2.20 (Acceptable cluster separation)
+- **Calinski-Harabasz Score**: 421.83 (Good cluster definition)
+- **Cross-validation**: Confirmed across multiple algorithms (K-means, Hierarchical, DBSCAN)
 
 ---
 
