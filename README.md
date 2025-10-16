@@ -1,4 +1,4 @@
-# � Advanced Customer Analytics: ML-Driven Segmentation for Revenue Optimization
+# Advanced Customer Analytics: ML-Driven Segmentation for Revenue Optimization
 
 > **Executive Portfolio Showcase**: Production-ready data science demonstrating ML expertise, statistical rigor, and executive-level business intelligence
 
@@ -41,13 +41,33 @@ This **world-class customer segmentation project** demonstrates the complete dat
 
 Advanced interactive analytics with executive styling, enabling real-time customer exploration across income, spending, and demographic dimensions with comprehensive hover insights and segment filtering.
 
+![3D Customer Intelligence Dashboard](images/3d_customer_intelligence_dashboard.jpg)
+
+_Interactive 3D visualization showcasing customer segmentation across income, spending, and age dimensions with revenue category indicators and strategic business intelligence._
+
 ### 📊 **Statistical Correlation Intelligence**
 
 Professional heatmap analysis revealing strategic customer relationships with business impact insights, supporting data-driven segmentation decisions and executive strategic planning.
 
+![Statistical Correlation Heatmap](images/correlation_heatmap.jpg)
+
+_Executive-grade correlation matrix revealing strategic customer relationships with professional styling and business intelligence integration._
+
 ### 🎯 **Executive Segment Performance Dashboard**
 
 Comprehensive multi-panel analytics featuring revenue distribution, customer value analysis, market share visualization, and ROI performance metrics for strategic decision support.
+
+![Executive Performance Dashboard](images/executive_dashboard.jpg)
+
+_Multi-dimensional executive dashboard with revenue distribution, customer value analysis, market share, and ROI performance metrics for strategic decision making._
+
+### 📈 **Customer Portfolio Overview**
+
+Statistical distribution analysis and pattern discovery enabling data-driven insights and strategic customer understanding.
+
+![Customer Portfolio Overview](images/customer_portfolio_overview.jpg)
+
+_Comprehensive statistical overview of customer income, spending, age distributions, and income-spending relationship analysis with professional visualization standards._
 
 ---
 
