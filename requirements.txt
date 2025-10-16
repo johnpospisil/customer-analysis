@@ -1,0 +1,31 @@
+# Advanced Customer Analytics: Professional Data Science Environment
+# Production-ready dependencies for ML-driven customer segmentation
+
+# Core Data Science Foundation
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Machine Learning & Statistical Analysis
+scikit-learn>=1.3.0
+statsmodels>=0.14.0
+
+# Interactive Visualization & Executive Dashboards
+plotly>=5.15.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Jupyter Environment for Portfolio Presentation
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+ipywidgets>=8.0.0
+
+# Professional Development & Quality
+pytest>=7.0.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Optional: Advanced Analytics Extensions
+# xgboost>=1.7.0  # For advanced modeling
+# lightgbm>=3.3.0  # Gradient boosting
+# shap>=0.42.0  # Model explainability
