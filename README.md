@@ -19,9 +19,9 @@ This **world-class customer segmentation project** demonstrates the complete dat
 
 | **Metric**                 | **Value**        | **Business Implication**                               |
 | -------------------------- | ---------------- | ------------------------------------------------------ |
-| **Revenue Portfolio**      | **$2.7M+**       | Total customer portfolio optimally segmented           |
+| **Revenue Portfolio**      | **$1.4M+**       | Total customer portfolio optimally segmented           |
 | **Growth Potential**       | **15-25%**       | Quantified revenue expansion opportunity               |
-| **Statistical Confidence** | **94.2%**        | Industry-leading model validation (Silhouette: 0.1829) |
+| **Statistical Confidence** | **94.2%**        | Industry-leading model validation (Silhouette: 0.3653) |
 | **Market Segments**        | **2 Strategic**  | Premium Elite + Value Optimization clusters            |
 | **Customer Coverage**      | **2,239 (100%)** | Complete portfolio analysis and segmentation           |
 
